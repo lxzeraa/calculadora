@@ -1,0 +1,31 @@
+.calculadora {
+  background-color: #000000;
+}
+
+button {
+  color: #000000;
+  cursor: pointer;
+  margin: 5px;
+  margin-left: -1px;
+  width: 100%;
+  line-height: 75px;
+  font-size: 16;
+  transition: all 0.5s;
+}
+
+.calc-body {
+  width: 75%;
+}
+
+.visor {
+  height: 95%;
+  font-size: 60px;
+}
+
+.bg-black {
+  background-color: #000000;
+}
+
+.bg-visor {
+  border: solid 1px rgb(0, 0, 0);
+}
